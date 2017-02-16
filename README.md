@@ -20,7 +20,14 @@ $ rails db:seed
 
 ```
 # Gemfile
+gem 'annotate'
 gem 'pry-rails'
+# remember to run bundle install again!
 ```
 
+# Run commands with bundle exec!
+
+```
+$ bundle exec annotate
+```
 
